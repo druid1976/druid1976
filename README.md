@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @druid1976
-- 👀 I’m interested in coding and as the time I am only a beginner!
 - 🌱 I’m currently learning python and C++.
 
 <!---
